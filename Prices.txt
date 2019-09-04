@@ -1,0 +1,175 @@
+
+iron_block (64): 20$ 
+gold_block (64): 190$ 
+oak_log (64): 15$ 
+birch_log (64): 15$ 
+spruce_log (64): 15$ 
+dark_oak_log (64): 15$ 
+jungle_log (64): 15$ 
+emerald_block (64): 250$ 
+diamond_block (64): 28800$ 
+redstone_block (64): 150$ 
+slime_block (64): 150$ 
+hopper (1): 25k 
+beacon (1):  27k 
+nether_star (1): 25k 
+cobblestone (64): 10$ 
+stone (64): 12$ 
+stone_bricks (64): 12$ 
+obsidian (1): 50$ 
+piston (1): 10k 
+sticky_piston (1): 9k
+observer (1): 5k 
+glowstone (64): 50$ 
+prismarine_bricks (64): 90$ 
+prismarine (64): 22$
+sea_lantern (64): 120$ 
+glass (64): 50$ 
+dirt (1): 100$ 
+sand (1): 90$ 
+coal block (64): 50$ 
+sandstone (64): 640$ 
+nether_bricks (64): 220$ 
+soul_sand (64): 220$ 
+bone_block (64): 50$ 
+lapis_block (64): 180$ 
+purpur_block (64): 500$ 
+end_rod (1): 50$ 
+
+iron_ingot (64): 2$ 
+gold_ingot (64): 21,5$
+emerald (64): 28$ 
+redstone (64): 17$ 
+slimeball (64): 17$ 
+diamond (1): 50$ 
+glowstone_dust (64): 6$ 
+lava_bucket (1): 50$ 
+coal (64): 5.5$ 
+bonemeal (64): 10$ 
+bone (64): 25$ 
+lapis (64): 20$ 
+shulker_shell (64): 64$ 
+chorus_fruit (1): 200$  (1 chorus fruit = 4 end rods)
+wheat (64): 20$ minimum
+sugarcane (64): 15$ minimum
+potato (64): 15$ minimum
+carrot (64): 15$ minimum
+melon (64): 12$ minimum
+pumpkin (64): 60$
+apple (64): 20$
+golden_carrot (64): 25$
+golden_apple (64): 124$
+sugar (64): 10$
+prismarine_shard (64): 10$
+
+mending (1): 100$
+silk_touch (1): 100$
+aqua_affinity (1): 80$
+flame (1): 70$
+infinity (1): 80$
+ 
+thorns_I (1): 25$
+thorns_II (1): 50$
+thorns_III (1): 80$
+ 
+sweeping_edge_I (1): 25$
+sweeping_edge_II (1): 50$
+sweeping_edge_III (1): 100$
+
+smite_I (1): 20$
+smite_II (1): 30$
+smite_III (1): 50$
+smite_IV (1): 70$
+smite_V (1): 90$
+ 
+respiration_I (1): 25$
+respiration_II (1): 50$
+respiration_III (1): 80$
+ 
+power_I (1): 25$
+power_II (1): 40$
+power_III (1): 50$
+power_IV (1): 70$
+power_V (1): 80$
+
+punch_I (1): 40$
+punch_II (1):  70$
+ 
+luck_of_the_sea_I (1): 25$
+luck_of_the_sea_II (1): 50$
+luck_of_the_sea_III (1): 70$
+ 
+lure_I (1): 25$
+lure_II (1): 50$
+lure_III (1): 70$
+
+looting_I (1): 70$
+looting_II (1): 100$
+looting_III (1): 170$
+ 
+knockback_I (1): 25$
+knockback_II (1): 50$
+ 
+frost_walker_I (1): 40$
+frost_walker_II (1): 70$
+ 
+depth_strider_I (1): 50$
+depth_strider_II (1): 90$
+depth_strider_III (1): 120$
+
+protection_I (1): 25$
+protection_II (1): 50$
+protection_III (1): 80$
+protection_IV (1): 90$
+ 
+blast_protection_I (1): 20$
+blast_protection_II (1): 50$
+blast_protection_III (1): 80$
+blast_protection_IV (1): 110$
+ 
+projectile_protection_I (1): 30$
+projectile_protection_II (1): 50$
+projectile_protection_III (1): 90$
+projectile_protection_IV (1): 100$
+
+fire_protection_I (1): 30$
+fire_protection_II (1): 50$
+fire_protection_III (1): 90$
+fire_protection_IV (1): 100$
+ 
+bane_of_arthropods_I (1): 20$
+bane_of_arthropods_II (1): 30$
+bane_of_arthropods_III (1): 40$
+bane_of_arthropods_IV (1): 50$
+bane_of_arthropods_V (1): 80$
+ 
+curse_of_binding (1): 40$
+curse_of_vanishing (1): 40$
+
+efficiency_I (1): 30$
+efficiency_II (1): 50$
+efficiency_III (1): 90$
+efficiency_IV (1): 100$
+efficiency_V (1): 120$
+ 
+unbreaking_I (1): 30$
+unreaking_II (1): 50$
+unbreaking_III (1): 70$
+ 
+sharpness_I (1): 40$
+sharpness_II (1): 50$
+sharpness_III (1): 60$
+sharpness_IV (1): 70$
+sharpness_V (1): 100$
+
+fortune_I (1): 70$
+fortune_II (1): 100$
+fortune_III (1): 170$
+ 
+fire_aspect_I (1): 30$
+fire_aspect_II (1): 50$
+ 
+feather_falling_I (1): 20$
+feather_falling_II (1): 40$
+feather_falling_III (1): 50$
+feather_falling_IV (1): 80$
