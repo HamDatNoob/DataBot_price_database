@@ -6,7 +6,7 @@ spruce_log (64): 15$
 dark_oak_log (64): 15$ 
 jungle_log (64): 15$ 
 emerald_block (64): 250$ 
-diamond_block (64): 28800$ 
+diamond_block (1): 450$ 
 redstone_block (64): 150$ 
 slime_block (64): 150$ 
 hopper (1): 25k 
@@ -36,7 +36,7 @@ purpur_block (64): 500$
 end_rod (1): 50$ 
 
 iron_ingot (64): 2$ 
-gold_ingot (64): 21,5$
+gold_ingot (64): 5$
 emerald (64): 28$ 
 redstone (64): 17$ 
 slimeball (64): 17$ 
@@ -172,3 +172,6 @@ feather_falling_I (1): 20$
 feather_falling_II (1): 40$
 feather_falling_III (1): 50$
 feather_falling_IV (1): 80$
+
+golden_nugget (64): 0.50$
+iron_nugget (64): 0.20$
