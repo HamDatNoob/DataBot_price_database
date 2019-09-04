@@ -1,4 +1,4 @@
-
+debug (64): debug_price
 iron_block (64): 20$ 
 gold_block (64): 190$ 
 oak_log (64): 15$ 
